@@ -1,4 +1,4 @@
-name: OpenShift
+name: OpenShift-P
 
 env:
   # 🖊️ EDIT your repository secrets to log into your OpenShift cluster and set up the context.
